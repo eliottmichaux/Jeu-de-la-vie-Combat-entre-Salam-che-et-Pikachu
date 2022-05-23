@@ -1,4 +1,4 @@
-Jeu de la vie combat entre salameche et pikachu
+Jeu de la vie combat entre Salameche et Pikachu
 
 Les participants à ce projet du 3ème trimestre portant sur le développement d'un jeu de la vie sont : Eliott Michaux, Arthur Savournin, Martin Bravais.
 
@@ -10,3 +10,6 @@ Description des fonctions :
 - make_glisseur = Crée le glisseur qui va de Salamèche vers Pikachu
 - apply_game_of_life_rules = Création d'une grille optimisée afin de permettre le fonctionnement du code (La partie gauche de la grille ne fait pas le jeu de la vie...)
 - apply_rules = Création des règles du jeu de la vie qui se déclenche une fois que le Pikachu est touché par le glisseur (simulation d'une attaque de Salamèche)
+
+
+Que le combat commence !
