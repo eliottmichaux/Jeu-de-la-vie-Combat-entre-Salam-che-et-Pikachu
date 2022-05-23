@@ -1,1 +1,1 @@
-# Jeu-de-la-vie-Combat-entre-Salam-che-et-Pikachu
+# Jeu-de-la-vie-Combat-entre-Salameche-et-Pikachu
