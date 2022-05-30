@@ -10,6 +10,7 @@ Description des fonctions :
 - make_glisseur = Crée le glisseur qui va de Salamèche vers Pikachu
 - apply_game_of_life_rules = Création d'une grille optimisée afin de permettre le fonctionnement du code (La partie gauche de la grille ne fait pas le jeu de la vie, permettant au salamèche de ne pas disparaitre lorsque le jeu de la vie commence)
 - apply_rules = Création des règles du jeu de la vie qui se déclenche une fois que le Pikachu est touché par le glisseur (simulation d'une attaque de Salamèche)
+- modification des couleurs dans data afin d'avoir les couleurs exactes ainsi qu'un fond d'une couleur aléatoire à chaque fois.
 
 
 Que le combat commence !
